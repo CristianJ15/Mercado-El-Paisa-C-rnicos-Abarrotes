@@ -8,7 +8,6 @@ Sitio web desarrollado como proyecto práctico del **Taller de GitHub** — Desa
 
 🔗 **https://cristianj15.github.io/Mercado-El-Paisa-C-rnicos-Abarrotes/**
 
-> Reemplaza `TU-USUARIO` con tu nombre de usuario de GitHub una vez actives GitHub Pages.
 
 ---
 
@@ -180,8 +179,8 @@ El sitio fue diseñado con una estética **dark mode** moderna y llamativa:
 ## 👤 Autor
 
 **Tu nombre aquí**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Repositorio: [carnicos-abarrotes](https://github.com/tu-usuario/carnicos-abarrotes)
+- GitHub: https://github.com/CristianJ15
+- Repositorio: https://cristianj15.github.io/Mercado-El-Paisa-C-rnicos-Abarrotes/
 
 ---
 
