@@ -6,7 +6,7 @@ Sitio web desarrollado como proyecto práctico del **Taller de GitHub** — Desa
 
 ## 🌐 Sitio publicado
 
-🔗 **https://TU-USUARIO.github.io/carnicos-abarrotes/**
+🔗 **https://cristianj15.github.io/Mercado-El-Paisa-C-rnicos-Abarrotes/**
 
 > Reemplaza `TU-USUARIO` con tu nombre de usuario de GitHub una vez actives GitHub Pages.
 
